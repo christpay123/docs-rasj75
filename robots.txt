@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-thm87v.idncuan.xyz/sitemap.xml
